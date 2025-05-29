@@ -1,3 +1,5 @@
+![DSMARIO](https://github.com/mariodahda/mariodahda/blob/main/DSMARIO.png)
+
 ## Hola! Soy Mario Dahada! Gracias por esta aquí :)
 
 ### Sobre mi:
