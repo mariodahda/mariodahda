@@ -8,7 +8,7 @@ Actualmente estoy haciendo el Bootcamp de TripleTen para convertirme en Científ
 
 Estoy preparado para asumir nuevos retos y aplicar estos conocimientos en un entorno profesional dinámico, aportando mi dedicación y ganas de crecer.
 
-
+Conoce más sobre mi en [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariodahada)
 
 
 ### Lenguajes y Habilidades
@@ -22,3 +22,4 @@ Estoy preparado para asumir nuevos retos y aplicar estos conocimientos en un ent
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
