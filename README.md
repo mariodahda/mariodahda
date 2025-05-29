@@ -1,6 +1,6 @@
 ## Hola! Soy Mario Dahada! Gracias por esta aquí :)
 
-# Sobre mi:
+### Sobre mi:
 
 Soy Ingeniero en Mecatrónica. Terminé mis estudios en el Tecnológico de Monterrey en 2018.
 
