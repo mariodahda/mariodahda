@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hola! Soy Mario Dahada! Gracias por esta aquí :)
+
+# Sobre mi:
+
+Soy Ingeniero en Mecatrónica. Terminé mis estudios en el Tecnológico de Monterrey en 2018.
+Actualmente estoy haciendo el Bootcamp de TripleTen para convertirme en Científico de Datos. Estoy en el 64%.
+
+
+
 
 <!--
 **mariodahda/mariodahda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
